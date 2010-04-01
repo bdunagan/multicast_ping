@@ -1,6 +1,6 @@
 //
 //  Helper.m
-//  Test Multicast
+//  Multicast Ping
 //
 //  Copyright 2010 bdunagan.com. All rights reserved.
 //
@@ -50,7 +50,7 @@
 		port = multicastPort;
 		
 		// Setup message.
-		message = [[NSString alloc] initWithFormat:@"Test Multicast: %@", [[NSHost currentHost] name]];
+		message = [[NSString alloc] initWithFormat:@"Multicast Ping: %@", [[NSHost currentHost] name]];
 
 		// Setup multicast.
 		ttl = 10;

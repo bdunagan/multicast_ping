@@ -1,6 +1,6 @@
 //
 //  main.m
-//  Test Multicast
+//  Multicast Ping
 //
 //  Copyright 2010 bdunagan.com. All rights reserved.
 //

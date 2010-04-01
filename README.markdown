@@ -1,11 +1,11 @@
-# Cocoa tool for testing multicast connectivity
+# Cocoa tool for multicast ping
 
-![Test Multicast Icon](http://bdunagan.com/files/Test_Multicast_128.png "Test Multicast icon")
-![Test Multicast Screenshot](http://bdunagan.com/files/Test_Multicast.png "Test Multicast screenshot")
+![Multicast Ping Icon](http://bdunagan.com/files/Multicast_Ping_128.png "Multicast Ping icon")
+![Multicast Ping Screenshot](http://bdunagan.com/files/Multicast_Ping_.png "Multicast Ping screenshot")
 
-This tool both sends and receives multicast packets on the supplied address/port. You can test multicast connectivity between two computers by running the tool on each and seeing if both display connections.
+This tool is ping for multicast. It both sends and receives multicast packets on the supplied address/port. You can test multicast connectivity between two computers by running the tool on each and seeing if both display connections.
 
-A pre-built version is included at the root as "Test Multicast App.zip".
+A pre-built version is included at the root as "Multicast Ping App.zip".
 
 ## System Requirements
 
