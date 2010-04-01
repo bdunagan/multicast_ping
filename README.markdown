@@ -1,7 +1,7 @@
 # Cocoa tool for multicast ping
 
 ![Multicast Ping Icon](http://bdunagan.com/files/Multicast_Ping_128.png "Multicast Ping icon")
-![Multicast Ping Screenshot](http://bdunagan.com/files/Multicast_Ping_.png "Multicast Ping screenshot")
+![Multicast Ping Screenshot](http://bdunagan.com/files/Multicast_Ping.png "Multicast Ping screenshot")
 
 This tool is ping for multicast. It both sends and receives multicast packets on the supplied address/port. You can test multicast connectivity between two computers by running the tool on each and seeing if both display connections.
 
