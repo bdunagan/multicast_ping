@@ -15,3 +15,7 @@ A pre-built version is included at the root as "Multicast Ping App.zip".
 ## Icon
 
 Thanks to [Artua Design Studio](http://artua.com/) via [Iconspedia](http://www.iconspedia.com/icon/network-utility-13461.html).
+
+## License
+
+This code is available under the MIT license. Feel free to use it wherever.
