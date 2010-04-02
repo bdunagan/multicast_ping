@@ -50,7 +50,7 @@
 		port = multicastPort;
 		
 		// Setup message.
-		message = [[NSString alloc] initWithFormat:@"Multicast Ping: %@", [[NSHost currentHost] name]];
+		message = [[NSString alloc] initWithFormat:@"Multicast Ping: %@", NSFullUserName()];
 
 		// Setup multicast.
 		ttl = 10;
